@@ -1,2 +1,4 @@
 # CSE475_Project_Image_Recognition
 Image Recognition using Machine Learning for CSE475 Project
+
+Image recognition refers to technologies that identify places, logos, people, objects, buildings, and several other variables in digital images. It may be very easy for humans like us to recognize different images, such as images of animals. We can easily recognize the image of a cat and differentiate it from an image of a person. But it may not be so simple for a computer. So, using our Image Recognition machine learning model we can make the computer recognize the object of the image. To recognize the object of the image we have to focus on image processing. So in this project, we will attempt to detect the object in a digital image using various techniques. Also, using this machine learning model we can detect what was the object.
